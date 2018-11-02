@@ -13,7 +13,7 @@ namespace cs_exercise
         //光维面试题：存取钱步骤
         static void Main(string[] args)
         {
-            double integerNumber;            
+            double integerNumber;             
             double temp,balance = 10000;
             Console.WriteLine("Balance is {0}.",balance);
             Console.WriteLine("Enter a number:\n1: Save money;\n2: Take money;\n3: Quit.", balance);
